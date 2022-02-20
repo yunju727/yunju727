@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**yunju727/yunju727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 I’m currently learning (in school) 💻</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">💻 I’m currently learning (by myself) 💻</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="center">⚡ GitHub Status ⚡</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yunju727&show_icons=true&theme=dracula&icon_color=AA0017">
+</p>
+
+<h3 align="center">⚡ Baekjoon Status ⚡</h3>
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunju727">
+</p>
+
+<h3 align="center">📫 How to reach me 📫</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/enqu724@gmial.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>&nbsp
+</p>
