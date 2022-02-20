@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h3 align="center">💻 I’m currently learning (in school) 💻</h3>
 <p align="center">
@@ -16,7 +15,7 @@
 
 <h3 align="center">⚡ Baekjoon Status ⚡</h3>
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunju727">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=enqu724">
 </p>
 
 <h3 align="center">📫 How to reach me 📫</h3>
