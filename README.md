@@ -1,4 +1,4 @@
-![header](https://capsule.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jo%20Yunju&fontSize=90)
+![header](https://capsule.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jo%20Yunju&fontSize=90)
 
 
 <h3 align="left">💻 I’m currently learning (in school) 💻</h3>
