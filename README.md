@@ -22,5 +22,5 @@
 
 <h3 align="left">📫 How to reach me 📫</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/enqu724@gmial.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/enqu724@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>&nbsp
 </p>
